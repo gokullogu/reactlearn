@@ -2,7 +2,7 @@ import React, { createElement } from 'react';
 import ReactDOM from 'react-dom';
 //stateless component
 function Welcome(){
-return <h2>helo all this is my first react app</h2>;
+return <h2>helo all this is my first  react app created</h2>;
 }
 
 ReactDOM.render(<Welcome></Welcome>,document.getElementById('root'));
